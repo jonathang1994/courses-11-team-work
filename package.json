@@ -1,0 +1,23 @@
+{
+  "name": "JBA",
+  "version": "1.0.0",
+  "description": "JBA Courses",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "JBA Web Development Team",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.13.0",
+    "gulp": "^3.9.1",
+    "gulp-install": "^0.6.0",
+    "gulp-sass": "^2.3.2"
+  },
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "browser-sync": "^2.13.0",
+    "gulp-install": "^0.6.0",
+    "gulp-sass": "^2.3.2"
+  }
+}
